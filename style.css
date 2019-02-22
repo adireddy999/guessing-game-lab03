@@ -1,0 +1,28 @@
+html{
+    background-color: black;
+    color:green;
+}
+.header{
+    color: orange;
+}
+
+h2{
+    color:orange;
+}
+
+* {
+    box-sizing: border-box;
+  }
+  
+  .column {
+    float: left;
+    width: 33.33%;
+    padding: 5px;
+  }
+  
+  /* Clearfix (clear floats) */
+  .row::after {
+    content: "";
+    clear: both;
+    display: table;
+  }

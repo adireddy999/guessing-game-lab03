@@ -1,13 +1,13 @@
 /* the five yes or no questions are below */
 var human = confirm("Are you a human? If Yes Press OK !");
-console.log('Humen error');
+console.log('Human error!Skynet is Rising!');
 if (human) {
-    console.log("catch here "); 
+    console.log("Catch Here "); 
     alert('Good To know');
    } 
    else 
    {
-   console.log("again");
+   console.log("Again");
    alert('Thanks!');
    }
 var cars = confirm("Do you like cars? If Yes Press OK !");

@@ -1,6 +1,7 @@
 html{
     background-color: black;
     color:green;
+    font-family: cursive;
 }
 .header{
     color: orange;
@@ -8,6 +9,7 @@ html{
 
 h2{
     color:orange;
+    font-family: 'Courier New', Courier, monospace;
 }
 
 * {

@@ -1,4 +1,5 @@
 /* the five yes or no questions are below */
+function guessingGame() {
 var human = confirm("Are you a human? If Yes Press OK !");
 console.log('Human error!Skynet is Rising!');
 if (human) {
@@ -95,5 +96,7 @@ for (i=0;i<3;i++)
     }
 }
 
+}
 
+guessingGame();
    
